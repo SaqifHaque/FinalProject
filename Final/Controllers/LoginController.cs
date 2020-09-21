@@ -12,7 +12,7 @@ namespace Final.Controllers
     [RoutePrefix("api/users")]
     public class LoginController : ApiController
     {
-        [BasicAuthentication]
+        [BasicAuthorization]
         public string Get()
         {
             return "WebAPI Method Called";

@@ -6,8 +6,11 @@ using System.Web;
 
 namespace Final.Repository
 {
-    interface IRepository
+    interface IRepository<T> where T : class
     {
-        User GetByName(string uname);
+        T GetByName(string uname);
+
+        List<T> GetAll();
+
     }
 }

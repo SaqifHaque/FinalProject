@@ -66,3 +66,6 @@ D:\.net\Final Term\Final\Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPla
 D:\.net\Final Term\Final\Final\obj\Debug\Final.csproj.CopyComplete
 D:\.net\Final Term\Final\Final\obj\Debug\Final.dll
 D:\.net\Final Term\Final\Final\obj\Debug\Final.pdb
+D:\.net\Final Term\Final\Final\bin\System.Web.Cors.dll
+D:\.net\Final Term\Final\Final\bin\System.Web.Http.Cors.dll
+D:\.net\Final Term\Final\Final\bin\System.Web.Http.Cors.xml
